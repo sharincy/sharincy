@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sharincy
-- 👀 I’m interested in game programming!
+- 👀 I’m interested in software engineering and game programming!
 - 📫 How to reach me: Instagram - onglee_cyn Twitter - @sharin_saku Discord - saku#5443                      
                        
                        
