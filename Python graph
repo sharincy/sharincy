@@ -9,4 +9,3 @@ plt.bar(x,y,color="r",alpha=0.4,label="XY") #xy
 plt.legend(loc ='upper right')
 plt.show()
 
-https://colab.research.google.com/drive/1X8k7ClJIPI2ZO_jxnGoQSlrtDnUorQKC
