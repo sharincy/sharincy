@@ -4,9 +4,9 @@
                        
       I'll be posting cool stuffs about fundamental of Python that I wrote.                    
          
-         ![image](https://user-images.githubusercontent.com/101504356/161025123-b8fd4d82-f1e5-40ed-ae63-73a26abe97f6.png)
+         ![Alt text](https://user-images.githubusercontent.com/101504356/161025123-b8fd4d82-f1e5-40ed-ae63-73a26abe97f6.png)
 
-          the outout would be    ![image](https://user-images.githubusercontent.com/101504356/161025241-51f72c1a-3796-4a28-a852-3af47c7832d7.png)
+          the outout would be    ![Alt text](https://user-images.githubusercontent.com/101504356/161025241-51f72c1a-3796-4a28-a852-3af47c7832d7.png)
 
 <!---
 sharincy/sharincy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
