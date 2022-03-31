@@ -3,8 +3,14 @@
 - 📫 How to reach me: Instagram- onglee_cyn Twitter- @sharin_saku Discord- saku#5443                      
                        
       I'll be posting cool stuffs about fundamental of Python that I wrote.                    
-       
-    
+  ![1st print](https://user-images.githubusercontent.com/101504356/161052541-abb290ca-27e1-4159-a83d-f65ca5260b8e.PNG)
+     
+     one of the most basic thing every starters must face, including me.
+     observe the "#this type is int". The sharp states that those are comments just to read. This is the output when I run it.
+     
+  ![ans 1st print](https://user-images.githubusercontent.com/101504356/161053123-c4da6a64-c212-4a2d-b40b-012d9df191ca.PNG)
+
+ 
 
         
 
