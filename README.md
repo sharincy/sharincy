@@ -8,7 +8,7 @@
      
   ![1st print](https://user-images.githubusercontent.com/101504356/161052541-abb290ca-27e1-4159-a83d-f65ca5260b8e.PNG) ![ans 1st print](https://user-images.githubusercontent.com/101504356/161053123-c4da6a64-c212-4a2d-b40b-012d9df191ca.PNG)
      
-     One of the most basic thing that every starters must face, including me.
+     >One of the most basic thing that every starters must face, including me.
      Observe the __"#this type is int".__ The sharp states that those are comments just to read. This is the output when I run it.
      
      This is examples of multiple value 
@@ -22,7 +22,7 @@
    line number three for example. The prefix for the bot is __"c!"__.
    The 9th line indicating that if I type __"c!meow".__ The bot will responds back with line 11th __"Meow".__
    
-   It was genuinely fun, I smiled while I am creating it. This experience helped me understand the structure of how things work.
+   >It was genuinely fun, I smiled while I am creating it. This experience helped me understand the structure of how things work :)
    
  ![cat meow](https://user-images.githubusercontent.com/101504356/161287282-27af6d1b-7d7b-455c-ba96-e2ce0bec8bbc.PNG) ![imitate](https://user-images.githubusercontent.com/101504356/161287930-b3e3cf4f-7a4b-4fa4-ac65-3b1a88090c37.PNG)
 
