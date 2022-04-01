@@ -30,7 +30,7 @@
  
  ![matplotlib](https://user-images.githubusercontent.com/101504356/161306495-a8982bbd-8277-4c30-881f-5c9bb5ae06e3.PNG)![graph gaming](https://user-images.githubusercontent.com/101504356/161312505-a8dda279-a035-4e0d-b3bb-a03a1067996d.PNG)
 
-  Now it is a bit advance moving to graphs. In this case I'm using matplotlib.pyplot to generate them but it is so long so I shortened them by using _import ... as_.
+  Now it is a bit advance moving to graphs. In this case I'm using matplotlib.pyplot to generate them but it is pretty long so I shortened them by using _import ... as_.
     
     
     
