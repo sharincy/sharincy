@@ -19,6 +19,8 @@
  ![db meow](https://user-images.githubusercontent.com/101504356/161281006-00bf3d7b-01cd-4395-8a00-27363b450a3b.PNG)
 
          yeah I know, it is pretty scary. I myself didn't understand all of them but I do know what the line does. 
+         line number three for example. The prefix for the bot is "c!".
+         The 9th line indicating that if I type "c!meow". The bot will responds back with line 11th "Meow".
 
 
      
