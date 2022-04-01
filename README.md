@@ -15,7 +15,7 @@
      
   ![multiple values](https://user-images.githubusercontent.com/101504356/161238122-278a040c-2608-4eba-b4a9-d5bbf273347e.PNG)![multiple values ans](https://user-images.githubusercontent.com/101504356/161238154-e85758eb-40e0-491c-839d-0290aebd2966.PNG)
 
-    ## This is my own discord bot
+    ## This is my own discord bot.
  ![db meow](https://user-images.githubusercontent.com/101504356/161281006-00bf3d7b-01cd-4395-8a00-27363b450a3b.PNG)
 
    Disclaimer. Yeah I know, it is pretty scary. I myself didn't understand all of them but I do know what the line does. 
@@ -25,8 +25,13 @@
    >It was genuinely fun, I smiled while I am creating it. This experience helped me understand the structure of how things work :)
    
  ![cat meow](https://user-images.githubusercontent.com/101504356/161287282-27af6d1b-7d7b-455c-ba96-e2ce0bec8bbc.PNG) ![imitate](https://user-images.githubusercontent.com/101504356/161287930-b3e3cf4f-7a4b-4fa4-ac65-3b1a88090c37.PNG)
-
+ 
+ 
    ##Graph created by Python
+ 
+ ![matplotlib](https://user-images.githubusercontent.com/101504356/161306495-a8982bbd-8277-4c30-881f-5c9bb5ae06e3.PNG)
+
+
     
     
     
