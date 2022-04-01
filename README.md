@@ -23,8 +23,7 @@
    The 9th line indicating that if I type __"c!meow".__ The bot will responds back with line 11th __"Meow".__
    
    It was genuinely fun, I smiled while I am creating it. This experience helped me understand the structure of how things work.
-
-
+ ![cat meow](https://user-images.githubusercontent.com/101504356/161287282-27af6d1b-7d7b-455c-ba96-e2ce0bec8bbc.PNG) 
      
     
     
