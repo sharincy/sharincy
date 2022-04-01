@@ -26,8 +26,7 @@
    
  ![cat meow](https://user-images.githubusercontent.com/101504356/161287282-27af6d1b-7d7b-455c-ba96-e2ce0bec8bbc.PNG) ![imitate](https://user-images.githubusercontent.com/101504356/161287930-b3e3cf4f-7a4b-4fa4-ac65-3b1a88090c37.PNG)
  
- 
-   ##Graph created by Python
+   ## Graph created by Python
  
  ![matplotlib](https://user-images.githubusercontent.com/101504356/161306495-a8982bbd-8277-4c30-881f-5c9bb5ae06e3.PNG)
 
