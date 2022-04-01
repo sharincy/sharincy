@@ -11,8 +11,10 @@
      One of the most basic thing that every starters must face, including me.
      Observe the "#this type is int". The sharp states that those are comments just to read. This is the output when I run it.
      
-  
-      
+     This is examples of multiple value 
+     
+  ![multiple values](https://user-images.githubusercontent.com/101504356/161238122-278a040c-2608-4eba-b4a9-d5bbf273347e.PNG)![multiple values ans](https://user-images.githubusercontent.com/101504356/161238154-e85758eb-40e0-491c-839d-0290aebd2966.PNG)
+
  
 
         
