@@ -28,7 +28,7 @@
  
    ## Graph created by Python
  
- ![matplotlib](https://user-images.githubusercontent.com/101504356/161306495-a8982bbd-8277-4c30-881f-5c9bb5ae06e3.PNG)
+ ![matplotlib](https://user-images.githubusercontent.com/101504356/161306495-a8982bbd-8277-4c30-881f-5c9bb5ae06e3.PNG)![graph gaming](https://user-images.githubusercontent.com/101504356/161312505-a8dda279-a035-4e0d-b3bb-a03a1067996d.PNG)
 
 
     
