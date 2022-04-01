@@ -17,4 +17,4 @@ async def say(ctx, *, message):
     await ctx.send(f'{message}')
 
 
-client.run('OTU5NDAxOTQzOTEzMDc0NzY4.YkbWsA.UhLtYUVTt8qF45oJiSg1alP_hHA')
+client.run('actually the bots ID supposed to be here but i must masked this as a secret, thank you for understanding.')
