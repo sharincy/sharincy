@@ -9,7 +9,7 @@
   ![1st print](https://user-images.githubusercontent.com/101504356/161052541-abb290ca-27e1-4159-a83d-f65ca5260b8e.PNG) ![ans 1st print](https://user-images.githubusercontent.com/101504356/161053123-c4da6a64-c212-4a2d-b40b-012d9df191ca.PNG)
      
      One of the most basic thing that every starters must face, including me.
-     Observe the "#this type is int". The sharp states that those are comments just to read. This is the output when I run it.
+     Observe the __"#this type is int".__ The sharp states that those are comments just to read. This is the output when I run it.
      
      This is examples of multiple value 
      
@@ -18,9 +18,9 @@
     ## This is my own discord bot
  ![db meow](https://user-images.githubusercontent.com/101504356/161281006-00bf3d7b-01cd-4395-8a00-27363b450a3b.PNG)
 
-         yeah I know, it is pretty scary. I myself didn't understand all of them but I do know what the line does. 
-         line number three for example. The prefix for the bot is "c!".
-         The 9th line indicating that if I type "c!meow". The bot will responds back with line 11th "Meow".
+   Disclaimer. Yeah I know, it is pretty scary. I myself didn't understand all of them but I do know what the line does. 
+   line number three for example. The prefix for the bot is __"c!"__.
+   The 9th line indicating that if I type __"c!meow".__ The bot will responds back with line 11th __"Meow".__
 
 
      
