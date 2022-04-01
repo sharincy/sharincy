@@ -3,8 +3,8 @@
 - 📫 How to reach me: Instagram- onglee_cyn Twitter- @sharin_saku Discord- saku#5443                      
                        
       I'll be posting cool stuffs about fundamental of Python that I wrote.
-      Get started with print and variables.
-      A variable is created when you first assign a value to it.
+     Get started with print and variables.
+     A variable is created when you first assign a value to it.
   ![1st print](https://user-images.githubusercontent.com/101504356/161052541-abb290ca-27e1-4159-a83d-f65ca5260b8e.PNG)
      
      One of the most basic thing that every starters must face, including me.
