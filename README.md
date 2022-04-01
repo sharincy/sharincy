@@ -21,6 +21,8 @@
    Disclaimer. Yeah I know, it is pretty scary. I myself didn't understand all of them but I do know what the line does. 
    line number three for example. The prefix for the bot is __"c!"__.
    The 9th line indicating that if I type __"c!meow".__ The bot will responds back with line 11th __"Meow".__
+   
+   It was genuinely fun, I smiled while I am creating it. This experience helped me understand the structure of how things work.
 
 
      
