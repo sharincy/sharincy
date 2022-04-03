@@ -32,7 +32,8 @@
 
   Now it is a bit advance moving to graphs. In this case I'm using matplotlib.pyplot to generate them but it is pretty long so I shortened them by using _import ... as_.
     
-    
+   This is Bar graph
+ 
     
 
 <!---
