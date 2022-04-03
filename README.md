@@ -36,7 +36,14 @@
  
  ![bar](https://user-images.githubusercontent.com/101504356/161411813-aa844b81-8b69-4995-b9c2-6e7cf6b3efb5.PNG)![bar ans](https://user-images.githubusercontent.com/101504356/161411814-cdfb836b-7f56-424a-8ed7-7aa61b3845f4.PNG)
 
-    
+  ## This is Pie chart
+  
+ ![pie chart](https://user-images.githubusercontent.com/101504356/161412311-c867d37c-91dd-45b9-b81b-d8d1fa8808ab.PNG)![pie chart ans](https://user-images.githubusercontent.com/101504356/161412320-71fc568e-ea3a-4894-83f3-b5c9c2fc75c7.PNG)
+
+
+
+
+
 
 <!---
 sharincy/sharincy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
