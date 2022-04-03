@@ -34,6 +34,8 @@
     
    This is Bar graph
  
+ ![bar](https://user-images.githubusercontent.com/101504356/161411813-aa844b81-8b69-4995-b9c2-6e7cf6b3efb5.PNG)![bar ans](https://user-images.githubusercontent.com/101504356/161411814-cdfb836b-7f56-424a-8ed7-7aa61b3845f4.PNG)
+
     
 
 <!---
