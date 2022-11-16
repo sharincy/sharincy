@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sharincy
 - 👀 I’m interested in software engineering and game programming!
-- 📫 How to reach me: Instagram- onglee_cyn Twitter- @sharin_saku Discord- saku#5443                      
+- 📫 How to reach me: Instagram- onglee_cyn Twitter- @sharin_saku Discord- saku#4254                      
                        
       I'll be posting cool stuffs about fundamental of Python that I wrote.
     ## Get started with print and variables
