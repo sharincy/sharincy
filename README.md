@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sharincy
-- 📫 How to reach me: Instagram- onglee_cyn Twitter- @sharin_saku Discord- saku#4254                      
+- 📫 How to reach me: Instagram- onglee_cyn Twitter- @sharin_saku Discord- onglee                      
                        
       I'll be posting cool stuffs about fundamental of Python that I wrote.
     ## Get started with print and variables
